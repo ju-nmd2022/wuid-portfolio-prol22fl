@@ -1,0 +1,93 @@
+*
+h1 {
+    font-size:xx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#5A739E;
+    background-color: #EBD28D;
+    font-weight: bold;
+    
+}
+
+.head{
+    text-align: center;
+    width:20vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color:#5A739E;
+    background-color: #EBD29D;
+    display:inline;
+}
+
+body{
+    background-color:whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+/*
+.Matchmuseum {
+    margin-right: 2cm;
+    width: 10cm;
+}
+
+.PrisonIsland{
+    margin-right: 2cm;
+    width: 10cm;
+
+}
+
+.PrisonIsland2{
+    width:10cm;
+}
+
+.Rosenlundsrosarium{
+    margin-right: 2cm;
+    width: 10cm;
+}
+
+.Rosenlundsrosarium2{
+    width: 10cm;
+}
+
+.BrooklynBurger{
+    margin-right: 2cm;
+    width: 10cm;
+}
+
+.BrooklynBurger2{
+    width: 10cm;
+}
+
+.Pescadores{
+    margin-right: 2cm;
+    width: 10cm;
+}
+
+.Pescadores2{
+    width: 10cm;
+}
+*/
+.picture{
+    max-width: 15vw;
+    margin-left: 1rem;
+}
+section,
+h2,
+h1{
+    text-align: center;
+}
+
+
+.all{
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+
+.activities{
+
+
+}
