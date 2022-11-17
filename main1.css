@@ -36,3 +36,10 @@ h2{
     font-size: x-large;
 }
 
+.headline{
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
