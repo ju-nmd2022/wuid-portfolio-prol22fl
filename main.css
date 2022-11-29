@@ -36,3 +36,31 @@ h2{
     font-size: x-large;
 }
 
+.herosection{
+    height:5in;
+    background-color:blue;
+    text-align: center;
+    animation-name: heroanimation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+    font-size: 50pt;
+    font-weight: bold;
+    margin-bottom: 70px;
+}   
+
+@keyframes heroanimation {
+    0%{
+        background-color: rgb(54, 54, 128);
+    }
+    
+    100%{
+        background-color: rgb(69, 94, 118);
+    }
+}
+
+.catgif{
+    margin-top: 1.2in;
+}
+        
+
