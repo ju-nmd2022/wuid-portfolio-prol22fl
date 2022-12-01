@@ -11,10 +11,15 @@ body {
     background-color: #E1BEE7;
 }
 
- header {
+ .headline {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
     color:black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
 }
 
 section{
@@ -62,5 +67,37 @@ h2{
 .catgif{
     margin-top: 1.2in;
 }
-        
 
+.popup {
+    margin-left: 40px;
+    width: 200px;
+	-webkit-animation: scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+@-webkit-keyframes popup {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+    }
+  }
+  @keyframes scale-in-center {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+   

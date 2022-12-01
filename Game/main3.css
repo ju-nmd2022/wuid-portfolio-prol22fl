@@ -1,0 +1,24 @@
+body{
+    background-image: url(pictures/img5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rainbowstick{
+    width:150px;
+    
+}
+
+.shinystick{
+    width:150px;
+    height:200px;
+}
+
+.silverstick{
+    width:150px;
+}
+
+.magicsticks{
+    margin-top: 500px;
+    margin-left: 1200px;;
+}

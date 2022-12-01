@@ -1,0 +1,30 @@
+.start{
+ background-color: rgb(14, 42, 16);
+ margin-top: 485px;
+ margin-left: 980px;
+ margin-right: 500px;
+ width:400px;
+ height:130px;
+}
+
+.text{
+    font-size: 50px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+body{
+    background-image: url(pictures/img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.button{
+    margin-left: 10vw;
+}
+
+.name{
+    font-size: 45px;
+    text-align: center;
+}

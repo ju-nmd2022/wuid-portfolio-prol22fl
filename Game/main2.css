@@ -1,0 +1,50 @@
+body{
+    background-image: url(pictures/img4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.greenstar{
+    width:50px;
+    margin-top: 350px;
+    margin-left:200px;
+}
+.button3{
+    margin-top: 500px;
+    margin-left: 1800px;
+    width:150px;
+    height:70px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#coin2const{
+    width:150px;
+    height:150px;
+    margin-top: 600px;
+    margin-left: 700px;
+}
+
+
+
+.task{
+    background-color: rgb(216, 205, 108);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    width:500px;
+}
+
+#content{
+    width:400px;
+    margin-bottom: 20px;
+   margin-left: 50px;
+}
+
+#randomnumber{
+    height: 30px;
+    width:120px;
+    margin-left: 180px;
+}
