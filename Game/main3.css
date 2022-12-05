@@ -22,3 +22,35 @@ body{
     margin-top: 500px;
     margin-left: 1200px;;
 }
+
+.correctstick{
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+#anothertask{
+    background-color: rgb(255, 181, 238);
+    display: inline;
+    margin-top: 500px;
+    margin-left: 750px;
+    font-size: 30px;
+}
+
+.wrongstick{
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.incorrectstick{
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}

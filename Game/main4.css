@@ -1,0 +1,14 @@
+body{
+    background-image: url(pictures/img10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.endgame{
+    background-color: antiquewhite;
+    margin-top: 300px;
+    text-align: center;
+    display: inline;
+    font-size: 100px;
+    color: rgb(75, 108, 63);
+}

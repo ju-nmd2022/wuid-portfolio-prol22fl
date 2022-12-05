@@ -8,28 +8,28 @@ buttonElement.addEventListener("click",function(){
    alert("Correct!")
    window.location.href="contact2.html"
    }else { alert("Wrong")
-   
    }
    
    })
-   
-   let myMath=  Math.floor(Math.random()*(max-min)+min);
-
-const buttElement= document.getElementById("frontside");
-const butElement= document.getElementById("backside");
-const myContent= document.getElementById("content").innerHTML;
-const myButton = document.getElementById("randomnumber");
-myButton.addEventListener("click",function(){
-    console.log("hh")});
-
-    let grabCoin = document.getElementById("coin2const");
-grabCoin.addEventListener("click", function () {
-  const randomNumber = Math.floor(Math.random() * 2);
-  console.log(randomNumber);
-  if (randomNumber === 1) {
-    alert("You win!");
-  } else {
-    alert("You lose!");
+   function myFunction(){
+    alert("Correct!")
+    window.location.href="contact4.html"
   }
-});
 
+  function myFunction2(){
+    alert("Try again")
+  }
+
+  function myFunction3(){
+    alert("Oops!That's a wrong one")
+  }
+
+
+
+
+
+
+
+    
+    
+    

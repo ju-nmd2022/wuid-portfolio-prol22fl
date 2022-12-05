@@ -28,3 +28,10 @@ body{
     font-size: 45px;
     text-align: center;
 }
+#greeting {
+    padding: 2rem;
+    background: #bcb843;
+    border-radius: 10px;
+    font-size: 3rem;
+    color: #fff;
+  }
